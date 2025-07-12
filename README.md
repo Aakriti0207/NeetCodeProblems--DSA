@@ -7,7 +7,7 @@ This repository contains my personal solutions to problems from the popular **Ne
 
 ## 📌 About
 
-The **NeetCode DSA Sheet** is one of the most structured and efficient paths to ace Data Structures & Algorithms for coding interviews. I've taken up this challenge to improve my skills in **C++ / Java / Python (as per question needs)** and document my journey here.
+The **NeetCode DSA Sheet** is one of the most structured and efficient paths to ace Data Structures & Algorithms for coding interviews. I've taken up this challenge to improve my skills in **C++** and document my journey here.
 
 ---
 
