@@ -1,5 +1,3 @@
-# NeetCodeProblems--DSA
-
 # 📚 NeetCode Problems - My DSA Journey 🚀
 
 Hey there! 👋  
